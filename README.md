@@ -1,4 +1,4 @@
-# 🚀 AI-Powered EdTech Platform  
+# AI-Powered EdTech Platform  
 ### Multi-Agent Learning System built with **Python, LangChain, LangGraph & OpenAI**
 
 This project is a fully-featured **AI-driven EdTech platform** designed to deliver deeply personalized and interactive learning experiences.  
