@@ -97,7 +97,7 @@ This platform uses a **LangGraph multi-agent system**, where each agent speciali
 ## 🛠️ Tech Stack
 
 ### **Core AI & Orchestration**
-- Python 3.x  
+- Python 
 - LangChain  
 - LangGraph  
 - OpenAI API (ChatGPT / GPT-4 / GPT-4o)
@@ -112,13 +112,6 @@ This platform uses a **LangGraph multi-agent system**, where each agent speciali
 
 ### **Backend**
 - Flask  
-
-### **Other Libraries**
-- `dotenv`  
-- `requests`  
-- `typing`  
-- `pydantic`  
-- `json`  
 
 ---
 
