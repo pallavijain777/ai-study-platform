@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "D:/Aarav/Aarav/agent-learn/agent_learn_api/agent-learn-venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "D:/Aarav/Aarav/agent-learn/agent_learn_api"
+  ],
+  "python.analysis.typeCheckingMode": "standard"
+}
