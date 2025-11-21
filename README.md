@@ -1,6 +1,8 @@
 # AI-Powered EdTech Platform  
 ### Multi-Agent Learning System built with **Python, LangChain, LangGraph & OpenAI**
 
+![Banner](https://github.com/pallavijain777/ai-study-platform/blob/main/Banner%20AI%20Study.png)
+
 This project is a fully-featured **AI-driven EdTech platform** designed to deliver deeply personalized and interactive learning experiences.  
 It combines **multi-agent orchestration**, intelligent content generation, vector-based retrieval, and topic-based workspaces to create a complete end-to-end AI learning environment.
 
