@@ -1,5 +1,5 @@
 # AI-Powered EdTech Platform  
-### Multi-Agent Learning System built with **Python, LangChain, LangGraph & OpenAI**
+_### Multi-Agent Learning System built with **Python, LangChain, LangGraph & OpenAI**_
 
 ![Banner](https://github.com/pallavijain777/ai-study-platform/blob/main/Banner%20AI%20Study.png)
 
